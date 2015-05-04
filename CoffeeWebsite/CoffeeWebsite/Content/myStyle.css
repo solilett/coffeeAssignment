@@ -1,0 +1,72 @@
+﻿body {
+}
+
+body {
+}
+
+
+
+.col-md-4, h3, p {
+    color:#333;
+}
+
+
+
+.recentProducts:hover {
+    opacity:0.8;
+}
+
+
+.btnDetailLink {
+    background-color:inherit;
+}
+
+.btnDetailLink a {
+    color:#999;
+}
+
+.btnDetailLink a:hover {
+    color:white;
+    text-decoration:none;
+}
+
+.btnDetailLink2 {
+    color:#999;
+    background-color:inherit;
+}
+
+
+.btnDetailLink2:hover {
+        color: white;
+}
+
+.container .navbar-header .navbar-brand {
+    font-family: 'Oswald', sans-serif;
+}
+
+.jumbotron .defaultBanner, .row .col-md-4 h2 {
+        font-family: 'Oswald', sans-serif;
+}
+
+.btn-block {
+    margin-left:30px;
+}
+
+.productImg {
+    float:right;
+    margin-top:-140px;
+    margin-right:5px;
+    width:200px;
+    height:170px;
+    border-radius:5px;
+}
+
+.container .eachProductBlock {
+    margin:10px;
+    background-color:#eee;
+    padding:0px;
+    padding-left:10px;
+    box-shadow: 5px 5px 5px #888888;
+    height:250px;
+}
+
